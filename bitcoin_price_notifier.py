@@ -1,17 +1,4 @@
-'''
-Bitcon Price Alert V0.6
 
-A python app that fetches the current price of bitcoins and
-sends notifications via Telegram IFTTT or Email
-to run this program type
-
-python bitcoin_alert_prototype1 -e 10000 -t 60 -d gmail
-
-v0.6 changes in the post method
-one post logic for all the post function
-'''
-
-# importing the required modules
 
 import requests
 import time

@@ -13,18 +13,9 @@ Bitcoin prices are unpredictable. Instead of constantly checking various sites f
   - An IFTTT applet includes a trigger and an action, triggered by a webhook service provided by IFTTT.
   - The Python app makes an HTTP request to the webhook URL, triggering an action. Actions can include sending an email, updating a Google Spreadsheet, or calling your phone.
 
-## Prerequisites
-
-You must have one of the following apps installed and/or must join or follow one of the following accounts:
-  - IFTTT App
-  - Telegram App and join this channel: [Telegram Channel](https://t.me/mybitcoinproject)
-  - Twitter App and follow this account: [Twitter Account](https://twitter.com/AtanuPa02151991)
-  - An email account
-  - A contact number to receive SMS
 
 ### Links
 
-- [GitHub Repository](https://github.com/shashi36-github/bitcoin_price_alert_app)
 - [PyPI Package](https://pypi.org/project/bitcoin-price-alert-app/0.6/)
 
 ### Technology
